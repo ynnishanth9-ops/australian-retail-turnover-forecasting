@@ -1,4 +1,5 @@
-📊 Australian Monthly Retail Turnover Forecasting
+**📊 Australian Monthly Retail Turnover Forecasting**
+
 A time series forecasting project that analyses Australian monthly retail turnover trends and builds an ARIMA model to generate short-term forecasts.
 
 🧾 Project Overview
